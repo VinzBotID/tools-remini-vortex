@@ -1,6 +1,7 @@
 {
   "functions": {
     "api/upload.js": { "maxDuration": 60 },
+    "api/remini.js": { "maxDuration": 60 },
     "api/dl.js": { "maxDuration": 60 }
   }
 }
